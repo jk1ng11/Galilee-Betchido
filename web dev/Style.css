@@ -1,0 +1,52 @@
+body{
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    background-size:100% 100% ;
+    background-position: center; 
+    
+    h1{font-family: 'Times New Roman', Times, serif; font-size: 50px;
+      
+
+
+    }
+    
+
+    h2{font-family: 'Times New Roman', Times, serif;
+        border: solid black;
+        border-radius: 20px;
+        
+        
+       
+      
+
+      }
+
+
+    
+    p{font-family: 'Times New Roman', Times, serif; font-size: 20px;
+      
+        
+
+    }
+    pre{font-family: 'Times New Roman', Times, serif; font-size: 20px;
+
+
+    }
+   .logo img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    float: left;
+    
+   }
+   .kaga img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    
+    float: right;
+   }
+   
+    
+}
